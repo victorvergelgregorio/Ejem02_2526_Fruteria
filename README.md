@@ -1,6 +1,6 @@
-# 📘 Proyecto de Evaluación GitHub y Markdown
+#  Proyecto de Evaluación GitHub y Markdown
 
-## 📝 Descripción
+##  Descripción
 Este repositorio forma parte de una **actividad de evaluación** cuyo objetivo es comprobar el uso correcto de:
 
 - Git y GitHub
@@ -9,11 +9,11 @@ Este repositorio forma parte de una **actividad de evaluación** cuyo objetivo e
 
 El documento sirve como ejemplo de un `README.md` **bien estructurado**, claro y profesional.
 
-> ⚠️ Este proyecto no tiene funcionalidad real. Su finalidad es **didáctica**.
+>  Este proyecto no tiene funcionalidad real. Su finalidad es **didáctica**.
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 | Ruta | Descripción |
 |----|----|
@@ -24,7 +24,7 @@ El documento sirve como ejemplo de un `README.md` **bien estructurado**, claro y
 
 ---
 
-## 🚀 Instalación
+##  Instalación
 
 1. Clona el repositorio:
    ```bash
